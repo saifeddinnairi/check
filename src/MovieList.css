@@ -1,0 +1,11 @@
+.MovieList{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 100PX;
+
+}
+/* .Item{
+    width: 1000px;
+    height : 50px;
+} */

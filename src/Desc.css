@@ -1,0 +1,15 @@
+.test{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: aliceblue;
+
+}
+.Desc{
+    font-size: 18px;
+    width: 80vw;
+}   
+.test img{
+    width: 240px;
+}
